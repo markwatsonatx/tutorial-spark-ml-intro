@@ -1,4 +1,4 @@
-### Intro. to Machine Learning & Spark ML
+### Introduction to Machine Learning with Spark ML
 
 Follow these simple instructions and you'll be up and running:
 
